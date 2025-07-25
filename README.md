@@ -1,4 +1,3 @@
-# KRISHNAVENI-ANIL
 <h1 align="center">Hey there 👋, I'm Krishnaveni Anil</h1>
 
 🎓 B.Tech CSE Student @ [Your College Name]  
@@ -36,8 +35,12 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🩺 [Pregnancy Support App](#) | Real-time emergency & health support for pregnant women | Flutter, Python, Firebase |
-| 🌍 [Rhythm Garden](#) | Inclusive game designed for children with disabilities | HTML, CSS, JS, Tailwind |
+| 🩺 [Pregnancy Assistance App](https://github.com/krishnaveni200312/pregnancy-assistance-app) | Comprehensive support app for pregnant women | Flutter, Firebase |
+| 📱 [OIBSIP--todo](https://github.com/krishnaveni200312/OIBSIP--todo) | Simple and functional to-do list | HTML, CSS, JavaScript |
+| 🧮 [OIBSIP-calculator](https://github.com/krishnaveni200312/OIBSIP-calculator) | Basic calculator app | HTML, CSS |
+| 🧑‍🎤 [OIBSIP-Tribute](https://github.com/krishnaveni200312/OIBSIP-Tribute) | Tribute page design | HTML, CSS |
+| 💖 [OIBSIP-admiration-](https://github.com/krishnaveni200312/OIBSIP-admiration-) | Webpage on someone I admire | HTML, CSS |
+| 🎮 Rhythm Garden (Coming Soon) | Inclusive rhythm-based game for children with disabilities | HTML, Tailwind, JS |
 
 ---
 
@@ -54,10 +57,8 @@
 ### 📫 Let's Connect
 
 - 💌 krishnaveni200312@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🔗 [Portfolio](#coming-soon)
+- 💼 [LinkedIn](https://www.linkedin.com/in/krishnaveni-anil/)  
 
 ---
 
 _“Turn your scars into power. That’s Veni 2.0.”_
-
